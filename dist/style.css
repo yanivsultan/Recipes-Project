@@ -1,0 +1,10 @@
+#container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.recipe{
+    background-color: #525252;
+    margin: 40px;
+    text-align: center;
+} 
